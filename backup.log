@@ -1015,3 +1015,23 @@ Total: 39 pages
 Exporting crontab...
   crontab.txt
 Committing to GitHub...
+[main 37ce921] Backup: 2026-08-04 02:00:02
+ 1 file changed, 20 insertions(+)
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:GermanTampaBay/GASF_WordPress.git        
+To github.com:flinchbot/GASF_WordPress.git
+   c66df69..37ce921  main -> main
+Pushed to GitHub successfully.
+=== Done ===
+=== GASF WordPress Backup — 2026-08-05 02:00:01 ===
+Exporting CSS...
+  so-css-hoot-du-premium.css
+Exporting theme files...
+  (single-mec-events.php retired — removed from backup)
+Exporting pages...
+Total: 39 pages
+Exporting crontab...
+  crontab.txt
+Committing to GitHub...
